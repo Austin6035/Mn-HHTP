@@ -1,0 +1,20 @@
+YSTEM  =  Opt
+
+ISYM    =  2
+ISPIN   =  2
+
+PREC    =  Normal
+ALGO    =  FAST
+
+ENCUT   =  400
+EDIFF   =  1E-04
+EDIFFG  =  -0.03
+
+LREAL   =  Auto
+LWAVE   =  .FALSE.
+LCHARG  =  .FALSE.
+
+NSW     =  999
+IBRION  =  2
+
+IVDW    =  12
